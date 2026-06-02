@@ -19,11 +19,11 @@ Se determinó que los factores principales que influyen en la rotación son: Mon
 
 ## Visualización
 * **Distribución de Ingresos:**
-![Diagrama de Caja](images/DIAGRAMA_DE_CAJA.png)
+![Diagrama de Caja](IMAGENES/DIAGRAMA_DE_CAJA.png)
 * **Factores de Rotación:**
-![Factores de Rotación](images/FACTORES_DE_ROTACIÒN.png)
+![Factores de Rotación](IMAGENES/FACTORES_DE_ROTACIÒN.png)
 * **Correlaciones:**
-![Mapa de Calor](images/MAPA_DE_CORRELACION.png)
+![Mapa de Calor](IMAGENES/MAPA_DE_CORRELACION.png)
 
 ## Conclusiones
 El uso de algoritmos de Machine Learning en Recursos Humanos permite transformar datos operativos en insights estratégicos, optimizando la toma de decisiones y reduciendo costos asociados a la rotación de personal.
