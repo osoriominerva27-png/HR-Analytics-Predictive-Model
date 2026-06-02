@@ -15,12 +15,15 @@ Este proyecto tiene como objetivo analizar y predecir la rotación de empleados 
 3. **Modelado:** Implementación de un modelo de Random Forest para la clasificación de deserción, evaluando su desempeño mediante métricas como Recall y Matriz de Confusión.
 
 ## Hallazgos Principales
-* El modelo permite identificar patrones críticos de deserción.
-* Se determinó que los factores principales que influyen en la rotación son: (menciona aquí tus 3 factores principales que salieron en tu gráfico de barras).
+Se determinó que los factores principales que influyen en la rotación son: MonthlyIncome, OverTime_Yes y Age.
 
 ## Visualización
-* [Adjunta aquí tu captura de pantalla de Power BI]
-* [Adjunta aquí tu gráfico del Top 5 Factores de Rotación]
+* **Distribución de Ingresos:**
+![Diagrama de Caja](images/DIAGRAMA_DE_CAJA.png)
+* **Factores de Rotación:**
+![Factores de Rotación](images/FACTORES_DE_ROTACIÒN.png)
+* **Correlaciones:**
+![Mapa de Calor](images/MAPA_DE_CORRELACION.png)
 
 ## Conclusiones
 El uso de algoritmos de Machine Learning en Recursos Humanos permite transformar datos operativos en insights estratégicos, optimizando la toma de decisiones y reduciendo costos asociados a la rotación de personal.
